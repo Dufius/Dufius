@@ -1,7 +1,8 @@
 <!-- Cinematic "edge of predictability" banner. Drop banner.gif in the repo root. -->
 <a href="https://bringon.io/">
-  <img alt="Vincent Witte — Founder & Researcher" src="banner.gif">
+  <img alt="Vincent Witte — Founder & Researcher" src="banner2.gif">
 </a>
+
 ### Languages
  
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
