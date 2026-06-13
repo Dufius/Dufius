@@ -34,3 +34,18 @@
 ### Research
  
 [![](https://img.shields.io/badge/-🪔%20lava--lamp--chaos--lab-000)](https://github.com/Dufius/lava-lamp-chaos-lab)
+
+ 
+<table>
+<tr>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Dufius&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=ea6161&bg_color=0d1117&theme=graywhite" />
+</td>
+<td valign="top">
+<!-- Gegenereerd door de Metrics-action (.github/workflows/metrics.yml).
+     Telt talen uit privé- én org-repos, alleen jouw commits. -->
+<img src="./metrics.languages.svg" alt="Most used languages" />
+</td>
+</tr>
+</table>
+ 
