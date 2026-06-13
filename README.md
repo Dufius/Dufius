@@ -1,12 +1,6 @@
-<!-- Banner: theme-aware. Drop your own banner.gif (dark) and banner_light.gif (light)
-     in the root of your Dufius/Dufius repo. The uploaded GIFs say "Adam Alston",
-     so replace them with your own before committing. -->
+<!-- Cinematic "edge of predictability" banner. Drop banner.gif in the repo root. -->
 <a href="https://bringon.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner.gif">
-    <source media="(prefers-color-scheme: light)" srcset="banner_light.gif">
-    <img alt="Vincent Witte — Founder & Researcher" src="banner.gif">
-  </picture>
+  <img alt="Vincent Witte — Founder & Researcher" src="banner.gif">
 </a>
 
 ### Languages
@@ -43,10 +37,5 @@
 [![](https://img.shields.io/badge/-♾️%20Collatz%20—%20barrier%20of%20approach-000)](https://github.com/Dufius)
 [![](https://img.shields.io/badge/-🧮%20SAIR%20Math%20Distillation%20(Stage%201%20winner)-000)](https://github.com/Dufius)
 [![](https://img.shields.io/badge/-🌀%20Determinism%20%26%20Chaos-000)](https://github.com/Dufius)
-
-### Security
-
-[![](https://img.shields.io/badge/-🛡%20Responsible%20Disclosure-000)](https://github.com/BreachWhite)
-[![](https://img.shields.io/badge/-🔎%20MKB%20Cyber%20Scanning-000)](https://github.com/BreachWhite)
 
 <a href="https://bringon.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Dufius&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=ea6161&bg_color=0d1117&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dufius&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=ea6161&bg_color=0d1117&theme=graywhite" /></a>
