@@ -28,8 +28,8 @@
 ### Products
  
 [![](https://img.shields.io/badge/-🤝%20BringOn.io%20—%20recruitment%20marketplace-000)](https://bringon.io/)
-[![](https://img.shields.io/badge/-📊%20ARES%20—%20HR%20%26%20sales%20platform-000)](https://github.com/aresapp)
-[![](https://img.shields.io/badge/-📡%20Freshtalent-000)](https://bringon.io/)
+[![](https://img.shields.io/badge/-📊%20ARES%20—%20HR%20%26%20sales%20platform-000)](https://ares.sale/)
+[![](https://img.shields.io/badge/-📡%20Freshtalent-000)](https://freshtalent.nl/)
  
 ### Research
  
