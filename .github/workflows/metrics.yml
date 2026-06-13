@@ -38,6 +38,17 @@ jobs:
           # stilletjes worden afgekapt in indepth-modus (minuten)
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 10
+          # Forceer expliciet de org-repos in de indepth-analyse. Dit is
+          # tegelijk een toets: als het token deze NIET mag clonen, zie je
+          # in de logs een clone-fout -> dan is het een toegang/SSO-probleem.
+          # Pas de namen aan naar de echte repo's (check github.com/Bringon).
+          plugin_languages_indepth_custom: |-
+            Bringon/BringOn-Backend
+            Bringon/BringOn-Frontend
+            aresapp/site
+          # Zet tijdelijk op 'yes' om in de logs te zien welke repos worden
+          # opgehaald en geanalyseerd (logs worden wel veel groter).
+          debug: no
           # markup/config-talen wegfilteren zodat C#/TS/Python bovenaan staan
           plugin_languages_ignored: >-
             html, css, scss, tex, dockerfile, makefile, shell,
