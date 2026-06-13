@@ -6,19 +6,26 @@
 ### Languages
  
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
-![Lean](https://img.shields.io/badge/-Lean-000?&logo=Lean)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+![Lean](https://img.shields.io/badge/-Lean-000?&logo=lean)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
  
 ### Technologies
  
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=rabbitmq)
+![React Router](https://img.shields.io/badge/-React%20Router-000?&logo=reactrouter)
+![Vitest](https://img.shields.io/badge/-Vitest-000?&logo=vitest)
+![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
+![Loki](https://img.shields.io/badge/-Loki-000?&logo=grafana)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
